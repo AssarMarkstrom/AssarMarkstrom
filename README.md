@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Assar Markstrom
 - 👀 I’m interested in mathematics and computer science.
-- 🌱 I’m currently studying the Bachelor's Programme in Mathematics and Computer Science
+- 🌱 I’m currently studying a bachelor program in Mathematics and Computer Science at Stockholm University
 - 📫 How to reach me: Phone: +46 704 38 71 85, Email: assarmarkstrom@gmail.com
 
 <!---
